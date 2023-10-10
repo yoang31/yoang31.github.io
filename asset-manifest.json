@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef9f6f26.css",
+    "main.js": "/static/js/main.e0f9fa1b.js",
+    "static/js/787.462b490c.chunk.js": "/static/js/787.462b490c.chunk.js",
+    "static/media/현병찬글씨.ttf": "/static/media/현병찬글씨.a6a3a8b376fce67b237f.ttf",
+    "static/media/일중김충현체(WIN).ttf": "/static/media/일중김충현체(WIN).4d69c12060ffdf52aee3.ttf",
+    "static/media/ON 여씨향약언해B.ttf": "/static/media/ON 여씨향약언해B.99f46e09c3d4f9e5ecb2.ttf",
+    "static/media/KakaoTalk_20231006_190504783.jpg": "/static/media/KakaoTalk_20231006_190504783.84eb9499c78927609085.jpg",
+    "static/media/Pretendard-Medium.ttf": "/static/media/Pretendard-Medium.7f0e62f904e2bce0dbfb.ttf",
+    "static/media/SE-ca02aa4c-a91f-40c3-9e7b-ea81476cf692.jpg": "/static/media/SE-ca02aa4c-a91f-40c3-9e7b-ea81476cf692.584360374c75e5237b08.jpg",
+    "static/media/2b745dcd4730d.jpg": "/static/media/2b745dcd4730d.0b282d5886d58a2a4573.jpg",
+    "index.html": "/index.html",
+    "main.ef9f6f26.css.map": "/static/css/main.ef9f6f26.css.map",
+    "main.e0f9fa1b.js.map": "/static/js/main.e0f9fa1b.js.map",
+    "787.462b490c.chunk.js.map": "/static/js/787.462b490c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef9f6f26.css",
+    "static/js/main.e0f9fa1b.js"
+  ]
+}
