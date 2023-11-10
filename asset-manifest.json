@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/shop/static/css/main.82d190cc.css",
-    "main.js": "/shop/static/js/main.7827451c.js",
-    "static/js/787.462b490c.chunk.js": "/shop/static/js/787.462b490c.chunk.js",
-    "static/media/현병찬글씨.ttf": "/shop/static/media/현병찬글씨.a6a3a8b376fce67b237f.ttf",
-    "static/media/일중김충현체(WIN).ttf": "/shop/static/media/일중김충현체(WIN).4d69c12060ffdf52aee3.ttf",
-    "static/media/ON 여씨향약언해B.ttf": "/shop/static/media/ON 여씨향약언해B.99f46e09c3d4f9e5ecb2.ttf",
-    "static/media/KakaoTalk_20231006_190504783.jpg": "/shop/static/media/KakaoTalk_20231006_190504783.84eb9499c78927609085.jpg",
-    "static/media/Pretendard-Medium.ttf": "/shop/static/media/Pretendard-Medium.7f0e62f904e2bce0dbfb.ttf",
-    "static/media/SE-ca02aa4c-a91f-40c3-9e7b-ea81476cf692.jpg": "/shop/static/media/SE-ca02aa4c-a91f-40c3-9e7b-ea81476cf692.584360374c75e5237b08.jpg",
-    "static/media/2b745dcd4730d.jpg": "/shop/static/media/2b745dcd4730d.0b282d5886d58a2a4573.jpg",
-    "index.html": "/shop/index.html",
-    "main.82d190cc.css.map": "/shop/static/css/main.82d190cc.css.map",
-    "main.7827451c.js.map": "/shop/static/js/main.7827451c.js.map",
-    "787.462b490c.chunk.js.map": "/shop/static/js/787.462b490c.chunk.js.map"
+    "main.css": "/static/css/main.30aa9107.css",
+    "main.js": "/static/js/main.33035e0d.js",
+    "static/js/787.3a3963b6.chunk.js": "/static/js/787.3a3963b6.chunk.js",
+    "static/media/MaruBuri-Bold.ttf": "/static/media/MaruBuri-Bold.e4b8f8f11f5954535578.ttf",
+    "static/media/NotoSerifKR-Bold.otf": "/static/media/NotoSerifKR-Bold.09635ea0efa60cd18ccd.otf",
+    "static/media/NotoSerifKR-Medium.otf": "/static/media/NotoSerifKR-Medium.9c86497566257e82d905.otf",
+    "static/media/NotoSerifKR-SemiBold.otf": "/static/media/NotoSerifKR-SemiBold.007771f917852fcc6471.otf",
+    "static/media/NotoSerifKR-Light.otf": "/static/media/NotoSerifKR-Light.e77ce81e644f439a2637.otf",
+    "static/media/NotoSerifKR-ExtraLight.otf": "/static/media/NotoSerifKR-ExtraLight.de7b7a526c4b9c335b13.otf",
+    "static/media/stars-7088.gif": "/static/media/stars-7088.b4c18f153de5ab881b46.gif",
+    "static/media/Pretendard-ExtraLight.ttf": "/static/media/Pretendard-ExtraLight.8fac2ec0a752261e7f3d.ttf",
+    "static/media/Pretendard-Light.ttf": "/static/media/Pretendard-Light.ae54342c83bcc5345734.ttf",
+    "static/media/Pretendard-Medium.ttf": "/static/media/Pretendard-Medium.7f0e62f904e2bce0dbfb.ttf",
+    "static/media/Pretendard-Black.ttf": "/static/media/Pretendard-Black.ec45aceadbcff2eef509.ttf",
+    "static/media/Pretendard-Bold.ttf": "/static/media/Pretendard-Bold.81fe678b068ad0d40f38.ttf",
+    "static/media/black_1.jpg": "/static/media/black_1.dab6cbe2b209545886ab.jpg",
+    "static/media/white.jpg": "/static/media/white.aced6e5a2ad59360483a.jpg",
+    "static/media/sss.jpg": "/static/media/sss.6062179d3c6792b96ffc.jpg",
+    "index.html": "/index.html",
+    "main.30aa9107.css.map": "/static/css/main.30aa9107.css.map",
+    "main.33035e0d.js.map": "/static/js/main.33035e0d.js.map",
+    "787.3a3963b6.chunk.js.map": "/static/js/787.3a3963b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82d190cc.css",
-    "static/js/main.7827451c.js"
+    "static/css/main.30aa9107.css",
+    "static/js/main.33035e0d.js"
   ]
 }
